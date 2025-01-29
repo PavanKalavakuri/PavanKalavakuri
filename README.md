@@ -35,7 +35,6 @@ I am a **Software Developer**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanKalavakuri&show_icons=true&locale=en&layout=compact" alt="PavanKalavakuri" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PavanKalavakuri&show_icons=true&locale=en" alt="PavanKalavakuri" /></p>
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 
 ⭐ **Feel free to star my projects and follow me!** ⭐
