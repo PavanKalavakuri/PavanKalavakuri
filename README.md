@@ -1,12 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <br><br>
 
+
 <h1 align="center"> Hi there, I'm Pavan Kalavakuri 👋</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PavanKalavakuri&label=Profile%20views&color=0e75b6&style=flat" alt="venkatanurag1997" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PavanKalavakuri&label=Profile%20views&color=0e75b6&style=flat" alt="PavanKalavakuri" /> </p>
 
 
-I am a **Software Developer**
-**Passionate about Coding, Collaborating**.
 ### 🚀 About Me
 - 🔭 I’m currently working on **Kotlin**
 - 🌱 I’m currently learning **Android Development**
