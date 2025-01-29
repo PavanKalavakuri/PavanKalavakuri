@@ -5,10 +5,13 @@
 <h1 align="center"> Hi there, I'm Pavan Kalavakuri 👋</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PavanKalavakuri&label=Profile%20views&color=0e75b6&style=flat" alt="PavanKalavakuri" /> </p>
 
+<h3> I am working as a Software Developer at State of New Mexico </h3>
+<h4>I am passionate about Software Development, DevOps and Cloud Engineering.</h4>
+
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Kotlin**
-- 🌱 I’m currently learning **Android Development**
+- 🔭 Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 I’m currently learning **Cloud and Devops**
 - 💬 Ask me about **Web Development**
 - 📫 Reach me at **pavanrkalvakuri@gmail.com**
 - ⚡ Fun fact: **The first computer virus was a Creeper**
