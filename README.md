@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there, I'm Pavan Kalavakuri 👋</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PavanKalavakuri&label=Profile%20views&color=0e75b6&style=flat" alt="PavanKalavakuri" /> </p>
 
-<h3> I am working as a Software Developer at State of New Mexico </h3>
+<h3>Software Developer at State of New Mexico </h3>
 <h4>I am passionate about Software Development, DevOps and Cloud Engineering.</h4>
 
 
