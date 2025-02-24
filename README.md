@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
-<h1 align="center">Hi 👋, I'm Venkat Anurag Nandigala</h1>
+<h1 align="center">Hi 👋, I'm Pavan Kalavakuri</h1>
 <h3 align="center">Passionate about coding, creating, and collaborating.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif">
 
@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/space_acer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="space_acer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venkat-anurag-nandigala-aa7211239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatanurag1997" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkat-anurag-nandigala-aa7211239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PavanKalavakuri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatanurag1997&show_icons=true&locale=en" alt="PavanKalavakuri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKalavakuri&" alt="PavanKalavakuri" /></p>
